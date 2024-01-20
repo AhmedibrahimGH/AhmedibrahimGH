@@ -7,7 +7,7 @@
 </h1>
 
 <!-- Subheader -->
-<h3 align="center">A passionate Machine Learning Engineer</h3>
+<h3 align="center">A passionate engineer specializing in machine learning</h3>
 
 <br/>
 
