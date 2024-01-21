@@ -2,12 +2,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AhmedibrahimGH.AhmedibrahimGH." />
 
 <!-- Header -->
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There+,+Glad+to+see+you;I'm+Ahmed+Ibrahim!;Machine+Learning+Engineer+💻" />
-</p>
-
-
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There+,+Glad+to+see+you;I'm+Ahmed+Ibrahim!;Machine+Learning+Engineer+💻;WWith+1+Year+Experience+Of+Coding" />
+</h1>
 
 <!-- Contact Information -->
 <div align="center"> 
