@@ -3,18 +3,11 @@
 
 <!-- Header -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ahmed+Ibrahim!;Glad+to+see+you" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There+,+Glad+to+see+you;I'm+Ahmed+Ibrahim!;Machine+Learning+Engineer+💻" />
 </h1>
 
-<!-- Subheader -->
-<h3 align="center"><i>Machine learning engineer with a strong background in mathematics and computer science, I specialize in leveraging machine learning algorithms to extract insights and drive data-driven decision-making</i></h3>
 
-<br/>
-
-<!-- Current Work -->
-<div align="center">
-  🔭 I’m currently working on **a marketplace**
-</div>
+</p>
 
 <!-- Contact Information -->
 <div align="center"> 
@@ -28,9 +21,8 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- Comment: Choose icons that represent your skills or tools -->
   </a>
 </div>
-
 <!-- Horizontal Line -->
-<hr/>
+
 
 <!-- Skills Section -->
 <h2 align="center">🌐 Languages-Frameworks-Tools 🌐</h2>
@@ -43,7 +35,7 @@
 <br/>
 
 <!-- Stats Section -->
-<h2 align="center">📈 Stats 📈</h2>
+<h2 align="center">📊 Stats 📊</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedibrahimGH&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
