@@ -7,7 +7,7 @@
 </h1>
 
 <!-- Subheader -->
-<h3 align="center">A passionate engineer specializing in machine learning</h3>
+<h3 align="center"><i>Machine learning engineer with a strong background in mathematics and computer science, I specialize in leveraging machine learning algorithms to extract insights and drive data-driven decision-making</i></h3>
 
 <br/>
 
