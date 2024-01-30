@@ -50,7 +50,7 @@
 <br/>
 <div align="center">
   <a href='https://www.buymeacoffee.com/ahmedibrahimsayed' target='_blank'>
-    <img height='470' style='border:0px;height:400px;' src='paypal-icon-11718.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    <img height='370' style='border:0px;height:330px;' src='paypal-icon-11718.png' border='0' alt='Paypal me at PayPal.com' />
 
   </a>
 </div>
