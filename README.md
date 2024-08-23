@@ -25,8 +25,8 @@
 <h2 align="center">🌐 Languages-Frameworks-Tools 🌐</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,numpy,pandas,matplotlib,sklearn" />
-    <img src="https://skillicons.dev/icons?i=jupyter,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,numpy,pandas,matplotlib,sklearn,scipy,keras,aws,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=jupyter,vscode,github,git,docker,kubernetes,hadoop,spark,kafka,rabbitmq" /><br>
 </div>
 
 <br/>
