@@ -27,7 +27,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,r,tensorflow" />
     <img src="https://skillicons.dev/icons?i=vscode,github,git,docker" />
-    <img src="https://skillicons.dev/icons?i=aws,azure,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,azure,mongodb,mysql,flask" /><br>
 </div>
 
 <br/>
